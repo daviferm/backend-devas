@@ -5,9 +5,6 @@ const app = express();
 const PORT = 3049;
 
 
-const url = 'https://utedevas.es/Mantenimiento/Mantenimiento.php?p=';
-
-
 //** Configurar los cors
 app.use(cors());
 
