@@ -1,6 +1,6 @@
 const cheerio = require('cheerio');
 const request = require('sync-request');
-const requestt = require('then-request');
+// const requestt = require('then-request');
 const express = require('express');
 
 const app = express();
